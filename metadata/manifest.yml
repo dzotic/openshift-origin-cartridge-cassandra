@@ -1,4 +1,4 @@
-Name: cassandra
+Name: cassandratest
 Cartridge-Short-Name: CASSANDRA
 Architecture: noarch
 Display-Name: Cassandra Database 1.2.5
